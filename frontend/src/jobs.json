@@ -1,0 +1,75 @@
+{
+    "jobs": [
+      {
+        "id": 1,
+        "title": "Software Engineer",
+        "company": "Acme Inc.",
+        "location": "San Francisco, CA",
+        "salary": "$120,000 - $150,000",
+        "description": "We are looking for a talented software engineer to join our team and help build the next generation of software products. You will work with a team of highly skilled engineers and product managers to deliver innovative solutions that solve real-world problems.",
+        "requirements": [
+          "Bachelor's degree in Computer Science or related field",
+          "Experience with Java or C++",
+          "Strong problem-solving and analytical skills",
+          "Excellent communication and collaboration skills"
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Product Manager",
+        "company": "XYZ Corp.",
+        "location": "New York, NY",
+        "salary": "$150,000 - $180,000",
+        "description": "We are seeking a Product Manager to drive the development and delivery of our next-generation products. You will work closely with engineering, design, and marketing teams to ensure that our products are world-class and meet the needs of our customers.",
+        "requirements": [
+          "Bachelor's degree in Business Administration or related field",
+          "Experience in product management or related field",
+          "Strong understanding of customer needs and market trends",
+          "Excellent communication and project management skills"
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Data Analyst",
+        "company": "ABC Inc.",
+        "location": "Seattle, WA",
+        "salary": "$80,000 - $100,000",
+        "description": "We are looking for a Data Analyst to help us analyze and interpret complex data sets. You will work with cross-functional teams to identify key insights and make data-driven decisions that drive business growth.",
+        "requirements": [
+          "Bachelor's degree in Mathematics, Statistics, or related field",
+          "Experience in data analysis or related field",
+          "Strong analytical and problem-solving skills",
+          "Proficiency in SQL and data visualization tools"
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Frontend Developer",
+        "company": "Def Corp.",
+        "location": "Austin, TX",
+        "salary": "$100,000 - $120,000",
+        "description": "We are seeking a talented Frontend Developer to help us build world-class web applications. You will work with a team of highly skilled developers and designers to deliver innovative solutions that meet the needs of our customers.",
+        "requirements": [
+          "Bachelor's degree in Computer Science or related field",
+          "Experience with JavaScript, HTML, and CSS",
+          "Strong understanding of web development principles",
+          "Excellent communication and collaboration skills"
+        ]
+      },
+      {
+        "id": 5,
+        "title": "Marketing Manager",
+        "company": "GHI Co.",
+        "location": "Chicago, IL",
+        "salary": "$120,000 - $150,000",
+        "description": "We are seeking a Marketing Manager to lead our marketing team and drive customer acquisition and retention. You will work closely with product and sales teams to develop and execute marketing strategies that deliver results.",
+        "requirements": [
+          "Bachelor's degree in Marketing, Business Administration, or related field",
+          "Experience in marketing or related field",
+          "Strong understanding of customer behavior and market trends",
+          "Excellent communication and leadership skills"
+        ]
+      }
+    ]
+}
+      
